@@ -1,4 +1,4 @@
-# About xUnit
+# About xUnit Update
 
 [<img align="right" width="100px" src="https://dotnetfoundation.org/img/logo_v4.svg" />](https://dotnetfoundation.org/projects/xunit)
 
